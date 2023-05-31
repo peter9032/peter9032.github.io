@@ -2,7 +2,7 @@
 
 # Welcome to Peter's World of Engineering
 
-Welcome to my world of Engineering! My name is Peter and I'm a passionate Engineer & analyst. This website is a showcase of my Engineering/analysis projects, skills, and experience. It's built using HTML, CSS, and JavaScript and hosted on Github Pages.
+Welcome to my world of Engineering! My name is Peter and I'm a passionate Engineer & analyst. This website is a showcase of my Engineering & analysis projects, skills, and experience. It's built using HTML, CSS, and JavaScript and hosted on Github Pages.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to my world of Engineering! My name is Peter and I'm a passionate Engine
 
 ## Getting Started
 
-To enter my world of data, simply visit [https://peter9032.github.io/](https://peter9032.github.io/) in your web browser.
+To enter my world of Engineering, simply visit [https://peter9032.github.io/](https://peter9032.github.io/) in your web browser.
 
 If you want to run the website locally on your computer, follow these steps:
 
@@ -25,7 +25,7 @@ If you want to run the website locally on your computer, follow these steps:
 
 2. Open the `index.html` file in your web browser.
 
-That's it! You should now be able to explore my world of data.
+That's it! You should now be able to explore my world of Engineering.
 
 ## Features
 
@@ -33,7 +33,7 @@ My world of Engineering includes the following features:
 
 - A home page with a brief introduction about myself and my passion for Engineering & data analysis.
 - A resume page with a summary of my professional experience and education
-- A portfolio page with a diverse range of data analysis projects, including detailed descriptions, data visualizations, and links to their Github repositories.
+- A portfolio page with a diverse range of Engineering & data analysis projects, including detailed descriptions, data visualizations, and links to their Github repositories.
 - A testimonial page with feedback on my work and character from peers, clients, and coworkers
 
 ## Built With

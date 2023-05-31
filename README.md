@@ -47,6 +47,6 @@ My world of Engineering is built with the following languages:
 
 ## Contributing
 
-I welcome contributions to my world of data! If you find a bug or have a feature request, please open an issue in the Github repository. If you'd like to contribute code, please fork the repository and create a pull request.
+I welcome contributions to my world of Engineering! If you find a bug or have a feature request, please open an issue in the Github repository. If you'd like to contribute code, please fork the repository and create a pull request.
 
-Thank you for entering my world of data! I hope you enjoy exploring it as much as I enjoy building it.
+Thank you for entering my world of Engineering! I hope you enjoy exploring it as much as I enjoy building it.

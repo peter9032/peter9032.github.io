@@ -1,8 +1,8 @@
 ![IMG_2509](https://user-images.githubusercontent.com/129965664/233524249-3326b2e0-d84c-46de-bdd0-154852f8be50.JPEG)
 
-# Welcome to Peter's World of Data
+# Welcome to Peter's World of Engineering
 
-Welcome to my world of data! My name is Peter and I'm a passionate data analyst. This website is a showcase of my data analysis projects, skills, and experience. It's built using HTML, CSS, and JavaScript and hosted on Github Pages.
+Welcome to my world of Engineering! My name is Peter and I'm a passionate Engineer & analyst. This website is a showcase of my Engineering/analysis projects, skills, and experience. It's built using HTML, CSS, and JavaScript and hosted on Github Pages.
 
 ## Table of Contents
 
@@ -29,16 +29,16 @@ That's it! You should now be able to explore my world of data.
 
 ## Features
 
-My world of data includes the following features:
+My world of Engineering includes the following features:
 
-- A home page with a brief introduction about myself and my passion for data analysis.
+- A home page with a brief introduction about myself and my passion for Engineering & data analysis.
 - A resume page with a summary of my professional experience and education
 - A portfolio page with a diverse range of data analysis projects, including detailed descriptions, data visualizations, and links to their Github repositories.
 - A testimonial page with feedback on my work and character from peers, clients, and coworkers
 
 ## Built With
 
-My world of data is built with the following languages:
+My world of Engineering is built with the following languages:
 
 - HTML
 - CSS

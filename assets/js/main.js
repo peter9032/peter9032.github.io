@@ -203,7 +203,7 @@
     speed: 400,
     loop: true,
     autoplay: {
-      delay: 5000,
+      delay: 8000,
       disableOnInteraction: false
     },
     pagination: {
@@ -220,7 +220,7 @@
     speed: 600,
     loop: true,
     autoplay: {
-      delay: 5000,
+      delay: 20000,
       disableOnInteraction: false
     },
     slidesPerView: 'auto',
@@ -235,10 +235,6 @@
         spaceBetween: 20
       },
 
-      1200: {
-        slidesPerView: 3,
-        spaceBetween: 20
-      }
     }
   });
 
